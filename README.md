@@ -16,3 +16,15 @@ The proposed method is compared with [DnCNN](https://github.com/cszn/DnCNN), [RL
 
 # How to run
 We will release the source code soon.
+
+# Citation
+If you find our code helpful in your research or work please cite our paper.
+@article{wang2022distortion,
+  title={Distortion detection and removal integrated method for image restoration},
+  author={Wang, Yuhang and Li, Hai and Hou, Shujuan},
+  journal={Digital Signal Processing},
+  volume={127},
+  pages={103528},
+  year={2022},
+  publisher={Elsevier}
+}
