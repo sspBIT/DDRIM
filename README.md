@@ -10,6 +10,7 @@ The proposed method is compared with [DnCNN](https://github.com/cszn/DnCNN), [RL
 
 ![Image restoration results of different methods on single distorted images.](https://github.com/sspBIT/DDRIM/blob/main/image/Fig6.png)
 ![Image restoration results of different methods on two hybrid-distorted images.](https://github.com/sspBIT/DDRIM/blob/main/image/Fig7.png)
+
 ![Image restoration results of different methods on three hybrid-distorted images.](https://github.com/sspBIT/DDRIM/blob/main/image/Fig8.png)
 
 
