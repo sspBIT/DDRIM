@@ -6,9 +6,9 @@ Image restoration has been the focus of research in image processing, and curren
 
 ![The architecture of the proposed distortion detection and removal integrated method.](https://github.com/sspBIT/DDRIM/blob/main/image/Fig1.png)
 
-The proposed method is compared with [DnCNN](https://github.com/cszn/DnCNN), [RL-Restore](https://github.com/yuke93/RL-Restore) and [OWAN](https://github.com/sg-nm/Operation-wise-attention-network). The proposed method can better remove distortion from the images and reconstruct detailed images than the other three methods, whether the distorted images contain three hybrid distortions, two hybrid distortions, or single distortion.
+The proposed method is compared with [DnCNN](https://github.com/cszn/DnCNN), [RL-Restore](https://github.com/yuke93/RL-Restore) and [OWAN](https://github.com/sg-nm/Operation-wise-attention-network). The proposed method can better remove distortion from the images and reconstruct detailed images than the other three methods, whether the distorted images contain three hybrid distortions, two hybrid distortions, or single distortion.
 
-![Image restoration results of different methods on single distorted images.](https://github.com/sspBIT/DDRIM/blob/main/image/Fig6.png)
+![Image restoration results of different methods on single distorted images.](https://github.com/sspBIT/DDRIM/blob/main/image/FIg6.png)
 ![Image restoration results of different methods on two hybrid-distorted images.](https://github.com/sspBIT/DDRIM/blob/main/image/Fig7.png)
 
 ![Image restoration results of different methods on three hybrid-distorted images.](https://github.com/sspBIT/DDRIM/blob/main/image/Fig8.png)
