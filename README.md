@@ -19,6 +19,8 @@ We will release the source code soon.
 
 # Citation
 If you find our code helpful in your research or work please cite our paper.
+
+```
 @article{wang2022distortion,
   title={Distortion detection and removal integrated method for image restoration},
   author={Wang, Yuhang and Li, Hai and Hou, Shujuan},
@@ -28,3 +30,4 @@ If you find our code helpful in your research or work please cite our paper.
   year={2022},
   publisher={Elsevier}
 }
+```
